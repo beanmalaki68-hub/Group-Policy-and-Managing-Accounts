@@ -51,9 +51,12 @@ These tasks are commonly associated with help desk, system administration, and c
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1090" height="668" alt="Account Lockout" src="https://github.com/user-attachments/assets/784a0cf1-9244-427f-bdce-21f394402c9d" />
+
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+
+- I then logged back onto DC-1 and used Active Directory and saw that the account was in fact locked.
+- In Active Directory I was also about to unlock the account, unlocking an account restores the account's ability to authenticate after an account lockout.
+- This is a common type of account-management task that may be handled by an IT support technician or system administrator.
 <br />
