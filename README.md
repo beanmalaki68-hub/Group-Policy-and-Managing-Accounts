@@ -84,3 +84,15 @@ These tasks are commonly associated with help desk, system administration, and c
 
 - I then attempted to log into the disabled account, and this demonstrates how disabling an account affects authentication.
 - It also allows me to compare an account that is disabled with an account that was previously locked.
+
+
+<img width="1210" height="917" alt="image" src="https://github.com/user-attachments/assets/4711a9b4-9641-4028-bde5-e6b194483ae0" />
+
+- I then reenabled the account and logged back into client-1 to verify that it worked.
+
+
+  <img width="1912" height="1057" alt="image" src="https://github.com/user-attachments/assets/297bc137-e220-45cd-9e5d-c59cfe099cfb" />
+
+
+- I then went to Event Viewer to look at the logs of the login failures. I was able to see where the incorrect passwords were entered and when I put in the correct credentials.
+- Reviewing logs can help administrators investigate authentication problems and understand what happened during an account-management event.
