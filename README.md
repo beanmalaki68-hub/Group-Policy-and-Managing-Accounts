@@ -12,19 +12,19 @@ These tasks are commonly associated with help desk, system administration, and c
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
+  
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- Windows Server 2025
+- Windows 11 Pro (25H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Configure Account Lockout
+- Test Account Lockout and Recovery
+- Disable and Re-enable the Account
+- Review Logs
 
 <h2>Deployment and Configuration Steps</h2>
 
