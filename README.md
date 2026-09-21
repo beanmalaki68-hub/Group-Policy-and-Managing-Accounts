@@ -2,7 +2,9 @@
 </p>
 
 <h1>Group Policy and Managing Accounts</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This lab focuses on managing user accounts in an Active Directory (AD) environment. The lab demonstrates how account lockouts occur, how administrators can unlock accounts and reset passwords, how to disable and re-enable user accounts, and how to review security-related logs on both the Domain Controller and client machine.
+These tasks are commonly associated with help desk, system administration, and cybersecurity roles.
+  <br />
 
 
 <h2>Environments and Technologies Used</h2>
