@@ -40,11 +40,14 @@ These tasks are commonly associated with help desk, system administration, and c
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="682" height="601" alt="image" src="https://github.com/user-attachments/assets/3ee9e5e0-3fbe-430b-a8a6-1a508ca3ca2b" />
+
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+
+- I then incorrectly entered in the wrong password on client-1 in order to show account lock out in action.
+- Since I created a threshold in Group Policy Manager continuously entering in the wrong password does in fact lock the account.
+  
 <br />
 
 <p>
