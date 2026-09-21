@@ -60,3 +60,27 @@ These tasks are commonly associated with help desk, system administration, and c
 - In Active Directory I was also about to unlock the account, unlocking an account restores the account's ability to authenticate after an account lockout.
 - This is a common type of account-management task that may be handled by an IT support technician or system administrator.
 <br />
+
+<img width="474" height="320" alt="image" src="https://github.com/user-attachments/assets/0b1a9859-28c0-45ea-8b66-69087817699e" />
+
+- I also went ahead and change the user's password for security proposes.
+- A password reset can restore a user's ability to authenticate when the existing password is unknown or needs to be replaced.
+
+  
+
+<img width="773" height="383" alt="image" src="https://github.com/user-attachments/assets/9025bcd0-c390-4341-961d-6579feb367ff" />
+
+
+- I then try to relog into the test account after using Active Diretory to unlock the account.
+- I was then able to use PowerShell and verify that I was on the correct test account.
+
+<img width="634" height="468" alt="image" src="https://github.com/user-attachments/assets/ed586fcb-a800-4833-af6d-e58ac3e3a0a4" />
+
+- I returned to Active Directory and disabled the same user account.
+- Disabling an account prevents the account from being used to authenticate.
+- This provides another important account-management control within Active Directory.
+
+<img width="777" height="373" alt="image" src="https://github.com/user-attachments/assets/e62cd1fe-99a5-4fc7-8c75-809d99d0ab37" />
+
+- I then attempted to log into the disabled account, and this demonstrates how disabling an account affects authentication.
+- It also allows me to compare an account that is disabled with an account that was previously locked.
