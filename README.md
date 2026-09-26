@@ -98,12 +98,3 @@ These tasks are commonly associated with help desk, system administration, and c
 - Reviewing logs can help administrators investigate authentication problems and understand what happened during an account-management event.
 
 
-# Summary
-
-This lab focused on Active Directory account management and authentication troubleshooting.
-
-I configured an account lockout policy, intentionally generated failed login attempts, observed the account become locked, unlocked the account, and reset the user's password. I then tested disabling and re-enabling the account to observe how those changes affected the user's ability to log in.
-
-Finally, I reviewed logs on both the Domain Controller and client machine.
-
-This lab provided hands-on practice with account lockouts, password resets, account enablement and disablement, Group Policy, authentication troubleshooting, and security logging.
