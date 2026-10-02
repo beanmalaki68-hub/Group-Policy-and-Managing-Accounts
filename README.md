@@ -20,12 +20,28 @@ https://github.com/user-attachments/assets/61f457f7-bb8f-4372-bee7-ba681e222e3b
 - Windows Server 2025
 - Windows 11 Pro (25H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
 
-- Configure Account Lockout
-- Test Account Lockout and Recovery
-- Disable and Re-enable the Account
-- Review Logs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2>Deployment and Configuration Steps</h2>
 
