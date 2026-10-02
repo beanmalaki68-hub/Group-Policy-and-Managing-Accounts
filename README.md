@@ -1,10 +1,11 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Group Policy and Managing Accounts</h1>
-This lab focuses on managing user accounts in an Active Directory (AD) environment. The lab demonstrates how account lockouts occur, how administrators can unlock accounts and reset passwords, how to disable and re-enable user accounts, and how to review security-related logs on both the Domain Controller and client machine.
-These tasks are commonly associated with help desk, system administration, and cybersecurity roles.
-  <br />
+<h1>Active Directory Lab</h1>
+
+
+
+https://github.com/user-attachments/assets/61f457f7-bb8f-4372-bee7-ba681e222e3b
 
 
 <h2>Environments and Technologies Used</h2>
